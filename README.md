@@ -745,3 +745,14 @@
 * [Loyola University Chicago](https://www.linkedin.com/school/loyola-university-chicago/jobs/)
 * [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/jobs/)
 * [Florida Atlantic University](https://www.linkedin.com/school/florida-atlantic-university/jobs/)
+
+
+## Contributing
+
+Contributions are welcome! Before contributing or raising any issues, please read the [contribution guidelines](CONTRIBUTING.md) for instructions on how to contribute effectively.
+
+Learn from the community and feel free to submit pull requests to help:
+
+- Fix errors
+- Improve existing sections
+- Add new sections
