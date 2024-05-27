@@ -493,7 +493,7 @@
 * [Sunrun](https://www.linkedin.com/company/sunrun/jobs/)
 * [Supercell](https://www.linkedin.com/company/supercell/jobs/)
 * [SurveyMonkey](https://www.linkedin.com/company/surveymonkey/jobs/)
-* [](https://www.linkedin.com/company/surveysparrow/jobs/)
+* [Surveysparrow](https://www.linkedin.com/company/surveysparrow/jobs/)
 * [Swiggy](https://www.linkedin.com/company/swiggy/jobs/)
 * [Symantec](https://www.linkedin.com/company/symantec/jobs/)
 * [Synopsys](https://www.linkedin.com/company/synopsys/jobs/)
