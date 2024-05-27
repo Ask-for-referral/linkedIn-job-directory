@@ -103,6 +103,7 @@
 * [Ceridian](https://www.linkedin.com/company/ceridian/jobs/)
 * [Cermati.com](https://www.linkedin.com/company/cermati/jobs/)
 * [Cerner Corporation](https://www.linkedin.com/company/cerner-corporation/jobs/)
+* [CGI](https://www.linkedin.com/company/cgi/jobs/)
 * [Chargebee](https://www.linkedin.com/company/chargebee/jobs/)
 * [Chegg Inc.](https://www.linkedin.com/company/chegg-inc-/jobs/)
 * [Chewy](https://www.linkedin.com/company/chewy-com/jobs/)
