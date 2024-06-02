@@ -1,6 +1,58 @@
 <h1 tabindex="-1" class="heading-element" dir="auto" align="center" style="display: flex; align-items: center; justify-content: center;"> <a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/50cf39121274b3db22bf1bd72cbe25af9078e037441cb5b5bdef1cc9dc5eb2f7/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a> LinkedIn-Job-Directory</h1>
 <h2>Company-wise</h2>
 
+<h3 tabindex="-1" class="heading-element" dir="auto"><a href="#companies-1">Companies</a></h3>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="#-companies">#</a></td>
+<td align="center"><a href="#a-companies">A</a></td>
+<td align="center"><a href="#b-companies">B</a></td>
+<td align="center"><a href="#c-companies">C</a></td>
+<td align="center"><a href="#d-companies">D</a></td>
+<td align="center"><a href="#e-companies">E</a></td>
+<td align="center"><a href="#f-companies">F</a></td>
+<td align="center"><a href="#g-companies">G</a></td>
+<td align="center"><a href="#h-companies">H</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#i-companies">I</a></td>
+<td align="center"><a href="#j-companies">J</a></td>
+<td align="center"><a href="#k-companies">K</a></td>
+<td align="center"><a href="#l-companies">L</a></td>
+<td align="center"><a href="#m-companies">M</a></td>
+<td align="center"><a href="#n-companies">N</a></td>
+<td align="center"><a href="#o-companies">O</a></td>
+<td align="center"><a href="#p-companies">P</a></td>
+<td align="center"><a href="#q-companies">Q</a></td>
+</tr>
+<tr>
+<td align="center"><a href="#r-companies">R</a></td>
+<td align="center"><a href="#s-companies">S</a></td>
+<td align="center"><a href="#t-companies">T</a></td>
+<td align="center"><a href="#u-companies">U</a></td>
+<td align="center"><a href="#v-companies">V</a></td>
+<td align="center"><a href="#w-companies">W</a></td>
+<td align="center"><a href="#x-companies">X</a></td>
+<td align="center"><a href="#y-companies">Y</a></td>
+<td align="center"><a href="#z-companies">Z</a></td>
+</tr>
+</tbody>
+</table>
+
 <h4># companies</h4>
 
 * [23andMe](https://www.linkedin.com/company/23andme/jobs/)
