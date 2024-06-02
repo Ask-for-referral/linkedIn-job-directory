@@ -842,7 +842,7 @@
 
 
 <div align="right" dir="auto">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
 </div>
 
 <h2>🎓University-wise</h2>
@@ -999,7 +999,7 @@
 * [Florida Atlantic University](https://www.linkedin.com/school/florida-atlantic-university/jobs/)
 
 <div align="right" dir="auto">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
 </div>
 
 ## Contributing
