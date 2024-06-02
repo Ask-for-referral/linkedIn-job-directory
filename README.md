@@ -998,6 +998,9 @@
 * [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/jobs/)
 * [Florida Atlantic University](https://www.linkedin.com/school/florida-atlantic-university/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Contributing
 
