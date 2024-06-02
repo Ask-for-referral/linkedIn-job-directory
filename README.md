@@ -841,7 +841,9 @@
 * [Zynga](https://www.linkedin.com/company/zynga/jobs/)
 
 
-<a href="#Company-wise">↥ Back To Top</a>
+<div align="right" dir="auto">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 <h2>🎓University-wise</h2>
     
