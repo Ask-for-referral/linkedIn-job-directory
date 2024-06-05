@@ -154,6 +154,7 @@
 * [Better.com](https://www.linkedin.com/company/betterdotcom/jobs/)
 * [BharatPe](https://www.linkedin.com/company/bharatpe/jobs/)
 * [BigCommerce](https://www.linkedin.com/company/bigcommerce/jobs/)
+* [BILL](https://www.linkedin.com/company/bill/jobs/)
 * [BJSS](https://www.linkedin.com/company/bjss/jobs/)
 * [BlaBlaCar](https://www.linkedin.com/company/blablacar/jobs/)
 * [BlackRock](https://www.linkedin.com/company/blackrock/jobs/)
