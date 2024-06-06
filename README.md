@@ -439,6 +439,7 @@
 <h4>J companies</h4>
 
 * [Jane Street](https://www.linkedin.com/company/jane-street-global/jobs/)
+* [John Deere](https://www.linkedin.com/company/john-deere/jobs/)
 * [Johnson & Johnson](https://www.linkedin.com/company/johnson-&-johnson/jobs/)
 * [Jio](https://www.linkedin.com/company/reliance-jio-infocomm-limited/jobs/)
 * [JP Morgan Chase](https://www.linkedin.com/company/jpmorganchase/jobs/)
