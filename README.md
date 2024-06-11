@@ -479,6 +479,10 @@
 * [IQVIA](https://www.linkedin.com/company/iqvia/jobs/)
 * [IXL Learning](https://www.linkedin.com/company/ixl-learning/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>J companies</h4>
 
 * [Jane Street](https://www.linkedin.com/company/jane-street-global/jobs/)
