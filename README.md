@@ -141,6 +141,10 @@
 * [AutoZone](https://www.linkedin.com/company/autozone/jobs/)
 * [AWS](https://www.linkedin.com/company/amazon-web-services/jobs/)
   
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>B companies</h4>
 
 * [Babbel](https://www.linkedin.com/company/babbel-com/jobs/)
@@ -186,6 +190,10 @@
 * [Bumble](https://www.linkedin.com/company/bumble/jobs/)
 * [Bumble Inc.](https://www.linkedin.com/company/bumbleinc/jobs/)
 * [Bytedance](https://www.linkedin.com/company/bytedance/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>C companies</h4>
   
@@ -256,6 +264,11 @@
 * [CVS](https://www.linkedin.com/company/cvs-health/jobs/)
 * [Cyence](https://www.linkedin.com/company/cyence/jobs/)
 
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>D companies</h4>
   
 * [Dassault Systèmes](https://www.linkedin.com/company/dassaultsystemes/jobs/)
@@ -293,6 +306,11 @@
 * [Duolingo](https://www.linkedin.com/company/duolingo/jobs/)
 * [DXC Technology](https://www.linkedin.com/company/dxctechnology/jobs/)
 
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>E companies</h4>
   
 * [E*TRADE](https://www.linkedin.com/company/e-trade/jobs/)
@@ -319,6 +337,11 @@
 * [Exponent](https://www.linkedin.com/company/exponent-jobs/)
 * [Extreme Networks](https://www.linkedin.com/company/extreme-networks/jobs/)
 * [EY](https://www.linkedin.com/company/ernstandyoung/jobs/)
+
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>F companies</h4>
 
@@ -350,6 +373,11 @@
 * [Friday Health Plans](https://www.linkedin.com/company/friday-health-plans/jobs/)
 * [Fynd (Shopsense Retail Technologies Ltd.)](https://www.linkedin.com/company/fynd-shopsense/jobs/)
 * [Fyusion](https://www.linkedin.com/company/fyusion/jobs/)
+
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>G companies</h4>
   
@@ -384,6 +412,10 @@
 * [Guru](https://www.linkedin.com/company/getguru/jobs/)
 * [Gusto](https://www.linkedin.com/company/gusto/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>H companies</h4>
   
 * [HackerEarth](https://www.linkedin.com/company/hackerearth/jobs/)
@@ -417,6 +449,10 @@
 * [Huge](https://www.linkedin.com/company/huge/jobs/)
 * [Hugging Face](https://www.linkedin.com/company/huggingface/jobs/)
 * [Hulu](https://www.linkedin.com/company/hulu/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>I companies</h4>
 
@@ -456,6 +492,10 @@
 * [JUSPAY](https://www.linkedin.com/company/juspay-technologies/jobs/)
 * [Just Eat Takeaway.com](https://www.linkedin.com/company/just-eat-takeaway-com/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>K companies</h4>
 
 * [Kayak](https://www.linkedin.com/company/kayak-com/jobs/)
@@ -467,6 +507,10 @@
 * [KLA](https://www.linkedin.com/company/klacorp/jobs/)
 * [Klarna](https://www.linkedin.com/company/klarna/jobs/)
 * [Kodiak](https://www.linkedin.com/company/kodiakrobotics/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>L companies</h4>
 
@@ -495,6 +539,10 @@
 * [Luxoft](https://www.linkedin.com/company/luxoft/jobs/)
 * [Lyft](https://www.linkedin.com/company/lyft/jobs/)
 * [Lyra Health](https://www.linkedin.com/company/lyra-health/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>M companies</h4>
 
@@ -542,6 +590,10 @@
 * [Myntra](https://www.linkedin.com/company/myntra/jobs/)
 * [Myriad](https://www.linkedin.com/company/myriad-genetics/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>N companies</h4>
   
 * [Nagarro](https://www.linkedin.com/company/nagarro/jobs/)
@@ -574,6 +626,10 @@
 * [NVIDIA](https://www.linkedin.com/company/nvidia/jobs/)
 * [NXP Semiconductors](https://www.linkedin.com/company/nxp-semiconductors/jobs/)
   
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>O companies</h4>
 
 * [Oak Street Health](https://www.linkedin.com/company/oak-street-health/jobs/)
@@ -594,6 +650,10 @@
 * [Outreach](https://www.linkedin.com/company/outreach-saas/jobs/)
 * [Outschool](https://www.linkedin.com/company/outschool/jobs/)
   
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>P companies</h4>
 
 * [Palantir Technologies](https://www.linkedin.com/company/palantir-technologies/jobs/)
@@ -634,12 +694,20 @@
 * [Pure Storage](https://www.linkedin.com/company/pure-storage/jobs/)
 * [PwC](https://www.linkedin.com/company/pwc/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>Q companies</h4>
 
 * [Qualcomm](https://www.linkedin.com/company/qualcomm/jobs/)
 * [Qualtrics](https://www.linkedin.com/company/qualtrics/jobs/)
 * [Quora](https://www.linkedin.com/company/quora/jobs/)
   
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>R companies</h4>
 
 * [Rackspace Technology](https://www.linkedin.com/company/rackspace/jobs/)
@@ -674,6 +742,10 @@
 * [Rokt](https://www.linkedin.com/company/rokt/jobs/)
 * [Rover](https://www.linkedin.com/company/rover/jobs/)
 * [Rubrik](https://www.linkedin.com/company/rubrik-inc/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>S companies</h4>
 
@@ -747,6 +819,10 @@
 * [Symantec](https://www.linkedin.com/company/symantec/jobs/)
 * [Synopsys](https://www.linkedin.com/company/synopsys/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>T companies</h4>
 
 * [T-Mobile](https://www.linkedin.com/company/t-mobile/jobs/)
@@ -792,6 +868,10 @@
 * [Twitter](https://www.linkedin.com/company/twitter/jobs/)
 * [Two Sigma](https://www.linkedin.com/company/two-sigma-investments/jobs/)
   
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>U companies</h4>
 
 * [Uber](https://www.linkedin.com/company/uber-com/jobs/)
@@ -805,6 +885,10 @@
 * [Upwork](https://www.linkedin.com/company/upwork/jobs/)
 * [USAA](https://www.linkedin.com/company/usaa/jobs/)
 * [U.S. Bank](https://www.linkedin.com/company/us-bank/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>V companies</h4>
 
@@ -823,6 +907,10 @@
 * [Vivint](https://www.linkedin.com/company/vivint/jobs/)
 * [Volvo Group](https://www.linkedin.com/company/volvo-group/jobs/)
 * [Vroom](https://www.linkedin.com/company/vroom/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>W companies</h4>
 
@@ -848,6 +936,10 @@
 * [Workday](https://www.linkedin.com/company/workday/jobs/)
 * [Worldwide Express](https://www.linkedin.com/company/worldwide-express/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>X companies</h4>
 
 * [X, the moonshot factory](https://www.linkedin.com/company/x/jobs/)
@@ -856,6 +948,10 @@
 * [Xoriant](https://www.linkedin.com/company/xoriant/jobs/)
 * [XPENG](https://www.linkedin.com/company/xiaopeng-motors/jobs/)
 
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
+
 <h4>Y companies</h4>
 
 * [Yahoo](https://www.linkedin.com/company/yahoo/jobs/)
@@ -863,6 +959,10 @@
 * [Yext](https://www.linkedin.com/company/yext/jobs/)
 * [Y Combinator](https://www.linkedin.com/company/y-combinator/jobs/)
 * [Yelp](https://www.linkedin.com/company/yelp/jobs/)
+
+<div align="right" dir="auto">
+  <b><a href="#Company-wise">↥ Back To Top</a></b>
+</div>
 
 <h4>Z companies</h4>
 
