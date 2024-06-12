@@ -5,13 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | escape }}</title>
     <link rel="icon" href="images/favicons/favicon.ico" type="image/x-icon">
+    <style>
+        :root {
+            --background-color: #ffffff;
+            --text-color: #000000;
+        }
+        [data-theme="dark"] {
+            --background-color: #121212;
+            --text-color: #ffffff;
+        }
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        header, main {
+            text-align: center;
+        }
+        .theme-toggle {
+            cursor: pointer;
+            padding: 10px;
+            border: none;
+            background: none;
+            font-size: 1rem;
+            margin-top: 20px;
+        }
+    </style>
 </head>
-<body>
+<body data-theme="light">
     <header>
         <h1>{{ site.title }}</h1>
+        <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
     </header>
     <main>
         {{ content }}
     </main>
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            body.setAttribute('data-theme', newTheme);
+        }
+    </script>
 </body>
 </html>
