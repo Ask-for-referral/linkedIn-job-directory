@@ -5,46 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | escape }}</title>
     <link rel="icon" href="images/favicons/favicon.ico" type="image/x-icon">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-color: #121212;
-            color: #ffffff;
-        }
-        .container {
-            text-align: center;
-            padding-top: 50px;
-        }
-        h1 {
-            margin-bottom: 30px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-    </style>
 </head>
 <body>
-    <header class="container">
+    <header>
         <h1>{{ site.title }}</h1>
     </header>
-    <main class="container">
-        <section>
-            <h2>Project Based Practical Learning</h2>
-            <ul class="list-group">
-                <li class="list-group-item bg-dark text-light">build-your-own-x</li>
-                <li class="list-group-item bg-dark text-light">project-based-learning</li>
-                <li class="list-group-item bg-dark text-light">awesome-selfhosted</li>
-                <li class="list-group-item bg-dark text-light">awesome-for-beginners</li>
-            </ul>
-        </section>
+    <main>
         {{ content }}
     </main>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
