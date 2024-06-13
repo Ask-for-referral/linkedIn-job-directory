@@ -521,7 +521,7 @@
 <h4>L companies</h4>
 
 * [Lam Research](https://www.linkedin.com/company/lam-research/jobs/)
-* [Lattice](https://www.linkedin.com/company/latticehq/jobs/)
+* [Lattice](https://www.linkedin.com/company/lattice-hq/jobs/)
 * [Larsen & Toubro](https://www.linkedin.com/company/larsen-&-toubro-limited/jobs/)
 * [LaunchDarkly](https://www.linkedin.com/company/launchdarkly/jobs/)
 * [LendingClub](https://www.linkedin.com/company/lendingclub/jobs/)
