@@ -67,8 +67,9 @@
 <h4># companies</h4>
 
 * [3M](https://www.linkedin.com/company/3m/jobs/)
-* [23andMe](https://www.linkedin.com/company/23andme/jobs/)
 * [6sense](https://www.linkedin.com/company/6sense/jobs/)
+* [10x Genomics](https://www.linkedin.com/company/10xgenomics/jobs/)
+* [23andMe](https://www.linkedin.com/company/23andme/jobs/)
   
 <h4>A companies</h4>
 
@@ -100,6 +101,7 @@
 * [AMD](https://www.linkedin.com/company/amd/jobs/)
 * [Amdocs](https://www.linkedin.com/company/amdocs/jobs/)
 * [American Express](https://www.linkedin.com/company/american-express/jobs/)
+* [Amgen](https://www.linkedin.com/company/amgen/jobs/)
 * [Amplify](https://www.linkedin.com/company/amplifyinc/jobs/)
 * [Amplitude](https://www.linkedin.com/company/amplitude-analytics/jobs/)
 * [Analog Devices](https://www.linkedin.com/company/analog-devices/jobs/)
@@ -624,6 +626,7 @@
 * [Nord Security ](https://www.linkedin.com/company/nordsecurity/jobs/)
 * [Nordic Semiconductor](https://www.linkedin.com/company/nordic-semiconductor/jobs/)
 * [Notion](https://www.linkedin.com/company/notionlabs/jobs/)
+* [Novartis](https://www.linkedin.com/company/novartis/jobs/)
 * [Novo Nordisk](https://www.linkedin.com/company/novo-nordisk/jobs/)
 * [NTT DATA](https://www.linkedin.com/company/nttdata/jobs/)
 * [Nubank](https://www.linkedin.com/company/nubank/jobs/)
