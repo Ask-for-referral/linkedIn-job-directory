@@ -153,6 +153,7 @@
 <h4>B companies</h4>
 
 * [Babbel](https://www.linkedin.com/company/babbel-com/jobs/)
+* [BAE Systems](https://www.linkedin.com/company/bae-systems/jobs/)
 * [Bain & Company](https://www.linkedin.com/company/bain-and-company/jobs/)
 * [Bain Capital](https://www.linkedin.com/company/bain-capital/jobs/)
 * [Bank of America](https://www.linkedin.com/company/bank-of-america/jobs/)
@@ -178,12 +179,14 @@
 * [Blend](https://www.linkedin.com/company/blendlabs/jobs/)
 * [Blinkit](https://www.linkedin.com/company/letsblinkit/jobs/)
 * [Blizzard Entertainment](https://www.linkedin.com/company/blizzard-entertainment/jobs/)
+* [Blue Origin](https://www.linkedin.com/company/blue-origin/jobs/)
 * [BMW Group](https://www.linkedin.com/company/bmw-group/jobs/)
 * [BNY Mellon](https://www.linkedin.com/company/bny-mellon/jobs/)
 * [Boeing](https://www.linkedin.com/company/boeing/jobs/)
 * [Booking.com](https://www.linkedin.com/company/booking.com/jobs/)
 * [Bose Corporation](https://www.linkedin.com/company/bose-corporation/jobs/)
 * [Bosch](https://www.linkedin.com/company/bosch/jobs/)
+* [Boston Dynamics](https://www.linkedin.com/company/boston-dynamics/jobs/)
 * [Boston Consulting Group (BCG)](https://www.linkedin.com/company/boston-consulting-group/jobs/)
 * [Box](https://www.linkedin.com/company/box/jobs/)
 * [Branch](https://www.linkedin.com/company/branch-co/jobs/)
@@ -394,6 +397,7 @@
 * [GameChanger](https://www.linkedin.com/company/gamechangermedia/jobs/)
 * [GE](https://www.linkedin.com/company/ge/jobs/)
 * [Genpact](https://www.linkedin.com/company/genpact/jobs/)
+* [General Dynamics](https://www.linkedin.com/company/general-dynamics/jobs/)
 * [General Motors](https://www.linkedin.com/company/general-motors/jobs/)
 * [Genesys](https://www.linkedin.com/company/genesys/jobs/)
 * [Gladly](https://www.linkedin.com/company/gladly-inc/jobs/)
@@ -527,6 +531,7 @@
 
 <h4>L companies</h4>
 
+* [L3Harris Technologies](https://www.linkedin.com/company/l3harris-technologies/jobs/)
 * [Lam Research](https://www.linkedin.com/company/lam-research/jobs/)
 * [Lattice](https://www.linkedin.com/company/lattice-hq/jobs/)
 * [Larsen & Toubro](https://www.linkedin.com/company/larsen-&-toubro-limited/jobs/)
@@ -534,6 +539,7 @@
 * [LendingClub](https://www.linkedin.com/company/lendingclub/jobs/)
 * [LexisNexis](https://www.linkedin.com/company/lexisnexis/jobs/)
 * [LG Electronics](https://www.linkedin.com/company/lg-electronics/jobs/)
+* [Leidos](https://www.linkedin.com/company/leidos/jobs/)
 * [Lemonade](https://www.linkedin.com/company/lemonade-inc-/jobs/)
 * [LendingTree](https://www.linkedin.com/company/lendingtree/jobs/)
 * [Lenovo](https://www.linkedin.com/company/lenovo/jobs/)
@@ -585,6 +591,7 @@
 * [Microsoft Advertising](https://www.linkedin.com/company/microsoft-advertising/jobs/)
 * [Millennium](https://www.linkedin.com/company/millennium-partners/jobs/)
 * [Mindtickle](https://www.linkedin.com/company/mindtickle/jobs/)
+* [Mitsubishi Electric Research Laboratories](https://www.linkedin.com/company/merl/jobs/)
 * [Miro](https://www.linkedin.com/company/mirohq/jobs/)
 * [Mistral AI](https://www.linkedin.com/company/mistralai/jobs/)
 * [Mixpanel](https://www.linkedin.com/company/mixpanel/jobs/)
@@ -631,6 +638,7 @@
 * [Nordstrom](https://www.linkedin.com/company/nordstrom/jobs/)
 * [Nord Security ](https://www.linkedin.com/company/nordsecurity/jobs/)
 * [Nordic Semiconductor](https://www.linkedin.com/company/nordic-semiconductor/jobs/)
+* [Northrop Grumman](https://www.linkedin.com/company/northrop-grumman-corporation/jobs/)
 * [Notion](https://www.linkedin.com/company/notionlabs/jobs/)
 * [Novartis](https://www.linkedin.com/company/novartis/jobs/)
 * [Novo Nordisk](https://www.linkedin.com/company/novo-nordisk/jobs/)
@@ -731,6 +739,7 @@
 * [Ramp](https://www.linkedin.com/company/ramp/jobs/)
 * [Rappi](https://www.linkedin.com/company/rappi/jobs/)
 * [Raymond James](https://www.linkedin.com/company/raymond-james-financial-inc-/jobs/)
+* [Raytheon](https://www.linkedin.com/company/raytheon/jobs/)
 * [Razer Inc.](https://www.linkedin.com/company/razer/jobs/)
 * [Razorpay](https://www.linkedin.com/company/razorpay/jobs/)
 * [REA Group](https://www.linkedin.com/company/rea-group/jobs/)
@@ -740,6 +749,7 @@
 * [Redfin](https://www.linkedin.com/company/redfin/jobs/)
 * [Red Hat](https://www.linkedin.com/company/red-hat/jobs/)
 * [Redis](https://www.linkedin.com/company/redisinc/jobs/)
+* [Relativity Space](https://www.linkedin.com/company/relativity/jobs/)
 * [Reliance Retail](https://www.linkedin.com/company/reliance-retail/jobs/)
 * [Remitly](https://www.linkedin.com/company/remitly/jobs/)
 * [Remote](https://www.linkedin.com/company/remote.com/jobs/)
@@ -757,6 +767,7 @@
 * [Rohde & Schwarz](https://www.linkedin.com/company/rohde-schwarz/jobs/)
 * [Rokt](https://www.linkedin.com/company/rokt/jobs/)
 * [Rover](https://www.linkedin.com/company/rover/jobs/)
+* [RTX](https://www.linkedin.com/company/rtx/jobs/)
 * [Rubrik](https://www.linkedin.com/company/rubrik-inc/jobs/)
 
 <div align="right" dir="auto">
