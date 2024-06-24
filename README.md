@@ -396,6 +396,7 @@
   
 * [Gameberry Labs](https://www.linkedin.com/company/gameberry-labs/jobs/)
 * [GameChanger](https://www.linkedin.com/company/gamechangermedia/jobs/)
+* [Garmin](https://www.linkedin.com/company/garmin/jobs/)
 * [GE](https://www.linkedin.com/company/ge/jobs/)
 * [Genpact](https://www.linkedin.com/company/genpact/jobs/)
 * [General Dynamics](https://www.linkedin.com/company/general-dynamics/jobs/)
