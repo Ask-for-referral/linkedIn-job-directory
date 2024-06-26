@@ -125,6 +125,7 @@
 * [Argonne National Laboratory](https://www.linkedin.com/company/argonne-national-laboratory/jobs/)
 * [ARM](https://www.linkedin.com/company/arm/jobs/)
 * [ARM Holdings](https://www.linkedin.com/company/arm-holdings/jobs/)
+* [Ascendion](https://www.linkedin.com/company/ascendion/jobs/)
 * [Arista Networks](https://www.linkedin.com/company/arista-networks-inc/jobs/)
 * [Asana](https://www.linkedin.com/company/asana/jobs/)
 * [ASML](https://www.linkedin.com/company/asml/jobs/)
