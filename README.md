@@ -685,6 +685,7 @@
 
 * [Palantir Technologies](https://www.linkedin.com/company/palantir-technologies/jobs/)
 * [Palo Alto Networks](https://www.linkedin.com/company/palo-alto-networks/jobs/)
+* [Pandora](https://www.linkedin.com/company/pandora/jobs/)
 * [Panorama Education](https://www.linkedin.com/company/panorama-education/jobs/)
 * [Paramount](https://www.linkedin.com/company/paramountco/jobs/)
 * [Park+](https://www.linkedin.com/company/parkplus/jobs/)
@@ -813,6 +814,7 @@
 * [SingleStore](https://www.linkedin.com/company/singlestore/jobs/)
 * [Silicon Labs](https://www.linkedin.com/company/siliconlabs/jobs/)
 * [Silicon Valley Bank](https://www.linkedin.com/company/silicon-valley-bank/jobs/)
+* [SiriusXM](https://www.linkedin.com/company/siriusxm/jobs/)
 * [Skillsoft](https://www.linkedin.com/company/skillsoft/jobs/)
 * [Skydio](https://www.linkedin.com/company/skydio/jobs/)
 * [Skyscanner](https://www.linkedin.com/company/skyscanner/jobs/)
