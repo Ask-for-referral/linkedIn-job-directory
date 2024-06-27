@@ -972,6 +972,7 @@
 * [Western Digital](https://www.linkedin.com/company/western-digital/jobs/)
 * [WeWork](https://www.linkedin.com/company/wework/jobs/)
 * [Whatfix](https://www.linkedin.com/company/whatfix/jobs/)
+* [Whatnot](https://www.linkedin.com/company/whatnot-inc/jobs/)
 * [WhatsApp](https://www.linkedin.com/company/whatsapp/jobs/)
 * [Wipro](https://www.linkedin.com/company/wipro/jobs/)
 * [Wise](https://www.linkedin.com/company/wiseaccount/jobs/)
