@@ -1037,6 +1037,8 @@
 </div>
 
 <h2>🎓University-wise</h2>
+
+US
     
 * [Massachusetts Institute of Technology (MIT)](https://www.linkedin.com/school/mit/jobs/)
 * [Harvard University](https://www.linkedin.com/school/harvard-university/jobs/)
@@ -1192,6 +1194,129 @@
 <div align="right" dir="auto">
   <b><a href="#Company-wise">↥ Back To Top</a></b>
 </div>
+
+Canada
+- [University of Toronto](https://www.linkedin.com/school/university-of-toronto/jobs/)
+- [University of British Columbia (UBC)](https://www.linkedin.com/school/universityofbc/jobs/)
+- [McGill University](https://www.linkedin.com/school/mcgill-university/jobs/)
+- [University of Alberta](https://www.linkedin.com/school/university-of-alberta/jobs/)
+- [University of Montreal](https://www.linkedin.com/school/universite-de-montreal/jobs/)
+
+Australia
+- [Australian National University (ANU)](https://www.linkedin.com/school/australian-national-university/jobs/)
+- [University of Melbourne](https://www.linkedin.com/school/university-of-melbourne/jobs/)
+- [University of Sydney](https://www.linkedin.com/school/university-of-sydney/jobs/)
+- [University of Queensland](https://www.linkedin.com/school/university-of-queensland/jobs/)
+- [University of New South Wales (UNSW)](https://www.linkedin.com/school/unsw/jobs/)
+
+Germany
+- [Technical University of Munich (TUM)](https://www.linkedin.com/school/technische-universitat-munchen/jobs/)
+- [Heidelberg University](https://www.linkedin.com/school/uni-heidelberg/jobs/)
+- [Humboldt University of Berlin](https://www.linkedin.com/school/humboldt-university-berlin/jobs/)
+- [University of Freiburg](https://www.linkedin.com/school/albert-ludwigs-universitaet-freiburg/jobs/)
+
+France
+- [PSL Research University Paris (Paris Sciences et Lettres)](https://www.linkedin.com/school/universite-paris-dauphine-psl/jobs/)
+- [Sorbonne University](https://www.linkedin.com/school/sorbonne-universite/jobs/)
+- [École Normale Supérieure (ENS Paris)](https://www.linkedin.com/school/ecole-normale-superieure-de-paris/jobs/)
+- [University of Paris (Université de Paris)](https://www.linkedin.com/school/universite-de-paris/jobs/)
+- [University of Paris-Saclay](https://www.linkedin.com/school/universite-paris-saclay/jobs/)
+- [Marie Curie University (Université Pierre et Marie Curie)](https://www.linkedin.com/school/pierre-and-marie-curie-university-uptm/jobs/)
+
+Switzerland
+- [ETH Zurich (Swiss Federal Institute of Technology)](https://www.linkedin.com/school/eth-zurich/jobs/)
+- [University of Zurich](https://www.linkedin.com/school/university-of-zurich/jobs/)
+- [EPFL (École Polytechnique Fédérale de Lausanne)](https://www.linkedin.com/school/epfl/jobs/)
+- [University of Geneva](https://www.linkedin.com/school/universite-de-geneve/jobs/)
+- [University of Basel](https://www.linkedin.com/school/university-of-basel/jobs/)
+
+Netherlands
+- [University of Amsterdam](https://www.linkedin.com/school/university-of-amsterdam/jobs/)
+- [Delft University of Technology](https://www.linkedin.com/school/delft-university-of-technology/jobs/)
+- [Utrecht University](https://www.linkedin.com/school/utrecht-university/jobs/)
+- [Leiden University](https://www.linkedin.com/school/leiden-university/jobs/)
+- [Erasmus University Rotterdam](https://www.linkedin.com/school/erasmus-university-rotterdam/jobs/)
+
+Finland
+- [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/jobs/)
+
+India
+
+- [IIT Bombay](https://www.linkedin.com/school/iit-bombay/jobs/)
+- [IIT Delhi](https://www.linkedin.com/school/indian-institute-of-technology-delhi/jobs/)
+- [IIT Madras](https://www.linkedin.com/school/indian-institute-of-technology-madras/jobs/)
+- [Indian Institute of Science (IISc) Bangalore](https://www.linkedin.com/school/indian-institute-of-science/jobs/)
+- [IIT Kanpur](https://www.linkedin.com/school/iit-kanpur/jobs/)
+- [IIT Kharagpur](https://www.linkedin.com/school/iit-kharagpur/jobs/)
+- [IIT Roorkee](https://www.linkedin.com/school/indian-institute-of-technology-roorkee/jobs/)
+- [NIT Trichy](https://www.linkedin.com/school/national-institute-of-technology-trichy/jobs/)
+- [IIT Guwahati](https://www.linkedin.com/school/indian-institute-of-technology-guwahati/jobs/)
+- [IIT Hyderabad](https://www.linkedin.com/school/iithyderabad/jobs/)
+- [IIT Indore](https://www.linkedin.com/school/iit-indore/jobs/)
+- [IIT Ropar](https://www.linkedin.com/school/iit-ropar/jobs/)
+- [IIT Gandhinagar](https://www.linkedin.com/school/iit-gandhinagar/jobs/)
+- [IIT Patna](https://www.linkedin.com/school/iitpatna/jobs/)
+- [IIT Bhubaneswar](https://www.linkedin.com/school/iit-bhubaneswar/jobs/)
+- [IIT Jodhpur](https://www.linkedin.com/school/iit-jodhpur/jobs/)
+- [IIT Mandi](https://www.linkedin.com/school/iit-mandi/jobs/)
+- [IIT (ISM) Dhanbad](https://www.linkedin.com/school/indian-institute-of-technology-indian-school-of-mines-dhanbad/jobs/)
+- [NIT Warangal](https://www.linkedin.com/school/national-institute-of-technology-warangal/jobs/)
+- [NIT Surathkal](https://www.linkedin.com/school/nit-surathkal/jobs/)
+- [NIT Calicut](https://www.linkedin.com/school/nit-calicut/jobs/)
+- [NIT Rourkela](https://www.linkedin.com/school/nit-rourkela/jobs/)
+- [NIT Durgapur](https://www.linkedin.com/school/nit-durgapur/jobs/)
+- [NIT Kurukshetra](https://www.linkedin.com/school/nitkurukshetra/jobs/)
+- [NIT Silchar](https://www.linkedin.com/school/nit-silchar/jobs/)
+- [NIT Jamshedpur](https://www.linkedin.com/school/national-institute-of-technology-jamshedpur/jobs/)
+- [NIT Hamirpur](https://www.linkedin.com/school/nit-hamirpur/jobs/)
+- [NIT Raipur](https://www.linkedin.com/school/nit-raipur/jobs/)
+- [NIT Meghalaya](https://www.linkedin.com/school/national-institute-of-technology-meghalaya/jobs/)
+
+
+China
+- [Tsinghua University](https://www.linkedin.com/school/tsinghua-university/jobs/)
+- [Peking University](https://www.linkedin.com/school/peking-university/jobs/)
+- [Fudan University](https://www.linkedin.com/school/fudan-university/jobs/)
+- [Shanghai Jiao Tong University](https://www.linkedin.com/school/shanghai-jiao-tong-university/jobs/)
+- [Zhejiang University](https://www.linkedin.com/school/zhejiang-university/jobs/)
+- [University of Hong Kong (HKU)](https://www.linkedin.com/school/university-of-hong-kong/jobs/)
+- [Hong Kong University of Science and Technology (HKUST)](https://www.linkedin.com/school/the-hong-kong-university-of-science-and-technology/jobs/)
+- [Chinese University of Hong Kong (CUHK)](https://www.linkedin.com/school/chinese-university-of-hong-kong/jobs/)
+- [City University of Hong Kong (CityU)](https://www.linkedin.com/school/city-university-of-hong-kong/jobs/)
+- [Hong Kong Polytechnic University (PolyU)](https://www.linkedin.com/school/hong-kong-polytechnic-university/jobs/)
+
+Japan
+- [University of Tokyo](https://www.linkedin.com/school/university-of-tokyo/jobs/)
+- [Kyoto University](https://www.linkedin.com/school/kyoto-university/jobs/)
+- [Osaka University](https://www.linkedin.com/school/osaka-university/jobs/)
+- [Tohoku University](https://www.linkedin.com/school/tohoku-university/jobs/)
+- [Tokyo Institute of Technology](https://www.linkedin.com/school/tokyo-institute-of-technology/jobs/)
+
+South Korea
+- [Seoul National University (SNU)](https://www.linkedin.com/school/seoul-national-university/jobs/)
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.linkedin.com/school/kaist/jobs/)
+- [Pohang University of Science and Technology (POSTECH)](https://www.linkedin.com/school/postech/jobs/)
+- [Yonsei University](https://www.linkedin.com/school/yonsei-university/jobs/)
+- [Korea University](https://www.linkedin.com/school/korea-university/jobs/)
+
+Singapore
+- [National University of Singapore (NUS)](https://www.linkedin.com/school/national-university-of-singapore/jobs/)
+- [Nanyang Technological University (NTU)](https://www.linkedin.com/school/nanyang-technological-university/jobs/)
+
+Sweden
+- [Karolinska Institute](https://www.linkedin.com/school/karolinska-institute/jobs/)
+- [Uppsala University](https://www.linkedin.com/school/uppsala-university/jobs/)
+- [Lund University](https://www.linkedin.com/school/lund-university/jobs/)
+- [Stockholm University](https://www.linkedin.com/school/stockholm-university/jobs/)
+- [KTH Royal Institute of Technology](https://www.linkedin.com/school/kth-royal-institute-of-technology/jobs/)
+
+New Zealand
+- [University of Auckland](https://www.linkedin.com/school/university-of-auckland/jobs/)
+- [University of Otago](https://www.linkedin.com/school/university-of-otago/jobs/)
+- [Victoria University of Wellington](https://www.linkedin.com/school/victoria-university-of-wellington/jobs/)
+- [University of Canterbury](https://www.linkedin.com/school/university-of-canterbury/jobs/)
+- [Massey University](https://www.linkedin.com/school/massey-university/jobs/)
+
 
 ## Contributing
 
