@@ -274,6 +274,7 @@
 * [Criteo](https://www.linkedin.com/company/criteo/jobs/)
 * [CrowdStrike](https://www.linkedin.com/company/crowdstrike/jobs/)
 * [Cruise](https://www.linkedin.com/company/cruise/jobs/)
+* [Crypto.com](https://www.linkedin.com/company/cryptocom/jobs/)
 * [CVS](https://www.linkedin.com/company/cvs-health/jobs/)
 * [Cyence](https://www.linkedin.com/company/cyence/jobs/)
 
@@ -486,6 +487,7 @@
 * [Infinera](https://www.linkedin.com/company/infinera/jobs/)
 * [Inflection AI](https://www.linkedin.com/company/inflectionai/jobs/)
 * [Infosys](https://www.linkedin.com/company/infosys/jobs/)
+* [ING](https://www.linkedin.com/company/ing/jobs/)
 * [Instacart](https://www.linkedin.com/company/instacart/jobs/)
 * [Intuit](https://www.linkedin.com/company/intuit/jobs/)
 * [Intel Corporation](https://www.linkedin.com/company/intel-corporation/jobs/)
@@ -665,6 +667,7 @@
 * [Observe.AI](https://www.linkedin.com/company/observeai/jobs/)
 * [Oculus](https://www.linkedin.com/company/oculus/jobs/)
 * [Okta](https://www.linkedin.com/company/okta-inc-/jobs/)
+* [OKX](https://www.linkedin.com/company/okxofficial/jobs/)
 * [Ola](https://www.linkedin.com/company/olacabs-com/jobs/)
 * [Ola Electric](https://www.linkedin.com/company/olaelectric/jobs/)
 * [OLX](https://www.linkedin.com/company/olx-group/jobs/)
