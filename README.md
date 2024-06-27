@@ -1195,6 +1195,15 @@ US
   <b><a href="#Company-wise">↥ Back To Top</a></b>
 </div>
 
+uk
+
+- [University of Cambridge](https://www.linkedin.com/school/university-of-cambridge/jobs/)
+- [University of Oxford ](https://www.linkedin.com/school/oxforduni/jobs/)
+- [Imperial College London](https://www.linkedin.com/school/imperial-college-london/jobs/)
+- [UCL (University College London) ](https://www.linkedin.com/school/university-college-london/jobs/)
+- [University of Edinburgh](https://www.linkedin.com/school/university-of-edinburgh/jobs/)
+- [University of Manchester](https://www.linkedin.com/school/university-of-manchester/jobs/)
+
 Canada
 - [University of Toronto](https://www.linkedin.com/school/university-of-toronto/jobs/)
 - [University of British Columbia (UBC)](https://www.linkedin.com/school/universityofbc/jobs/)
