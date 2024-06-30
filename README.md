@@ -235,6 +235,7 @@
 * [Chime](https://www.linkedin.com/company/chime/jobs/)
 * [Chubb](https://www.linkedin.com/company/chubb/jobs/)
 * [Ciena](https://www.linkedin.com/company/ciena/jobs/)
+* [Cigna Healthcare](https://www.linkedin.com/company/cignahealthcare/jobs/)
 * [Cisco](https://www.linkedin.com/company/cisco/jobs/)
 * [Cisco Meraki](https://www.linkedin.com/company/cisco-meraki/jobs/)
 * [Citadel Securities](https://www.linkedin.com/company/citadel-securities/jobs/)
@@ -329,7 +330,6 @@
 <h4>E companies</h4>
   
 * [E*TRADE](https://www.linkedin.com/company/e-trade/jobs/)
-* [Endress+Hauser Group](https://www.linkedin.com/company/endress-hauser-group/jobs/)
 * [eBay](https://www.linkedin.com/company/ebay/jobs/)
 * [Edward Jones](https://www.linkedin.com/company/edward-jones/jobs/)
 * [EdX](https://www.linkedin.com/company/edx/jobs/)
@@ -338,6 +338,8 @@
 * [Envoy](https://www.linkedin.com/company/envoy/jobs/)
 * [Elastic](https://www.linkedin.com/company/elastic-co/jobs/)
 * [Electronic Arts (EA)](https://www.linkedin.com/company/electronic-arts/jobs/)
+* [Elevance Health](https://www.linkedin.com/company/elevance-health/jobs/)
+* [Endress+Hauser Group](https://www.linkedin.com/company/endress-hauser-group/jobs/)
 * [EPAM Anywhere](https://www.linkedin.com/company/epam-anywhere/jobs/)
 * [EPAM Systems](https://www.linkedin.com/company/epam-systems/jobs/)
 * [Epic](https://www.linkedin.com/company/epic1979/jobs/)
@@ -462,6 +464,7 @@
 * [HubSpot](https://www.linkedin.com/company/hubspot/jobs/)
 * [Hudl](https://www.linkedin.com/company/hudl/jobs/)
 * [Hudson River Trading](https://www.linkedin.com/company/hudson-river-trading/jobs/)
+* [Humana](https://www.linkedin.com/company/humana/jobs/)
 * [Human Care Systems](https://www.linkedin.com/company/human-care-systems/jobs/)
 * [Huge](https://www.linkedin.com/company/huge/jobs/)
 * [Hugging Face](https://www.linkedin.com/company/huggingface/jobs/)
