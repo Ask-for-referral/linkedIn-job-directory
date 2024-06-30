@@ -166,6 +166,7 @@
 * [Benchling](https://www.linkedin.com/company/benchling/jobs/)
 * [Bending Spoons](https://www.linkedin.com/company/bendingspoons/jobs/)
 * [Bentobox](https://www.linkedin.com/company/bento-box-entertainment/jobs/)
+* [Berkeley Lab](https://www.linkedin.com/company/lawrence-berkeley-national-laboratory/jobs/)
 * [Better.com](https://www.linkedin.com/company/betterdotcom/jobs/)
 * [BharatPe](https://www.linkedin.com/company/bharatpe/jobs/)
 * [BigCommerce](https://www.linkedin.com/company/bigcommerce/jobs/)
@@ -198,6 +199,7 @@
 * [Bristol Myers Squibb](https://www.linkedin.com/company/bristol-myers-squibb/jobs/)
 * [Bright](https://www.linkedin.com/company/brightcom/jobs/)
 * [Broadcom](https://www.linkedin.com/company/broadcom/jobs/)
+* [Brookhaven National Laboratory](https://www.linkedin.com/company/brookhavenlab/jobs/)
 * [BrowserStack](https://www.linkedin.com/company/browserstack/jobs/)
 * [Bumble](https://www.linkedin.com/company/bumble/jobs/)
 * [Bumble Inc.](https://www.linkedin.com/company/bumbleinc/jobs/)
@@ -226,6 +228,7 @@
 * [Celonis](https://www.linkedin.com/company/celonis/jobs/)
 * [Ceridian](https://www.linkedin.com/company/ceridian/jobs/)
 * [Cermati.com](https://www.linkedin.com/company/cermati/jobs/)
+* [CERN](https://www.linkedin.com/company/cern/jobs/)
 * [Cerner Corporation](https://www.linkedin.com/company/cerner-corporation/jobs/)
 * [CGI](https://www.linkedin.com/company/cgi/jobs/)
 * [Chargebee](https://www.linkedin.com/company/chargebee/jobs/)
@@ -545,6 +548,7 @@
 * [Lattice](https://www.linkedin.com/company/lattice-hq/jobs/)
 * [Larsen & Toubro](https://www.linkedin.com/company/larsen-&-toubro-limited/jobs/)
 * [LaunchDarkly](https://www.linkedin.com/company/launchdarkly/jobs/)
+* [Lawrence Livermore National Laboratory](https://www.linkedin.com/company/lawrence-livermore-national-laboratory/jobs/)
 * [LendingClub](https://www.linkedin.com/company/lendingclub/jobs/)
 * [LexisNexis](https://www.linkedin.com/company/lexisnexis/jobs/)
 * [LG Electronics](https://www.linkedin.com/company/lg-electronics/jobs/)
@@ -558,6 +562,7 @@
 * [LiveRamp](https://www.linkedin.com/company/liveramp/jobs/)
 * [Lockheed Martin](https://www.linkedin.com/company/lockheed-martin/jobs/)
 * [Logitech](https://www.linkedin.com/company/logitech/jobs/)
+* [Los Alamos National Laboratory](https://www.linkedin.com/company/los-alamos-national-laboratory/jobs/)
 * [Lowe's Companies, Inc.](https://www.linkedin.com/company/lowe's-home-improvement/jobs/)
 * [Loom](https://www.linkedin.com/company/loomhq/jobs/)
 * [LSEG (London Stock Exchange Group)](https://www.linkedin.com/company/london-stock-exchange-group/jobs/)
@@ -665,6 +670,7 @@
 
 <h4>O companies</h4>
 
+* [Oak Ridge National Laboratory](https://www.linkedin.com/company/oak-ridge-national-laboratory/jobsQ)
 * [Oak Street Health](https://www.linkedin.com/company/oak-street-health/jobs/)
 * [Oath](https://www.linkedin.com/company/oath/jobs/)
 * [Observe.AI](https://www.linkedin.com/company/observeai/jobs/)
@@ -690,6 +696,7 @@
 
 <h4>P companies</h4>
 
+* [Pacific Northwest National Laboratory](https://www.linkedin.com/company/pacific-northwest-national-laboratory/jobs/)
 * [Palantir Technologies](https://www.linkedin.com/company/palantir-technologies/jobs/)
 * [Palo Alto Networks](https://www.linkedin.com/company/palo-alto-networks/jobs/)
 * [Pandora](https://www.linkedin.com/company/pandora/jobs/)
@@ -791,14 +798,15 @@
 
 * [S&P Global](https://www.linkedin.com/company/s&p-global/jobs/)
 * [Saks Fifth Avenue](https://www.linkedin.com/company/saks-fifth-avenue/jobs/)
-* [Samsung](https://www.linkedin.com/company/samsung-electronics/jobs/)
-* [Samsung NEXT](https://www.linkedin.com/company/samsung-next/jobs/)
 * [Salesforce](https://www.linkedin.com/company/salesforce/jobs/)
 * [Salesforce Marketing Cloud](https://www.linkedin.com/company/salesforce-marketing-cloud/jobs/)
 * [Salesloft](https://www.linkedin.com/company/salesloft/jobs/)
-* [Samsara](https://www.linkedin.com/company/samsara/jobs/)
-* [Sanofi](https://www.linkedin.com/company/sanofi/jobs/)
 * [SAP](https://www.linkedin.com/company/sap/jobs/)
+* [Samsung](https://www.linkedin.com/company/samsung-electronics/jobs/)
+* [Samsung NEXT](https://www.linkedin.com/company/samsung-next/jobs/)
+* [Samsara](https://www.linkedin.com/company/samsara/jobs/)
+* [Sandia National Laboratories](https://www.linkedin.com/company/sandia-national-laboratories/jobs/)
+* [Sanofi](https://www.linkedin.com/company/sanofi/jobs/)
 * [Seagate Technology](https://www.linkedin.com/company/seagate-technology/jobs/)
 * [SentinelOne](https://www.linkedin.com/company/sentinelone/jobs/)
 * [Scribe](https://www.linkedin.com/company/scribe-7/jobs/)
