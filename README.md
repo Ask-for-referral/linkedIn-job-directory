@@ -836,6 +836,7 @@
 * [Skyscanner](https://www.linkedin.com/company/skyscanner/jobs/)
 * [Slack](https://www.linkedin.com/company/slack/jobs/)
 * [Slalom](https://www.linkedin.com/company/slalom-consulting/jobs/)
+* [SLB](https://www.linkedin.com/company/slbglobal/jobs/)
 * [Snorkel AI](https://www.linkedin.com/company/snorkel-ai/jobs/)
 * [Snowflake](https://www.linkedin.com/company/snowflake-computing/jobs/)
 * [Snap](https://www.linkedin.com/company/snap-inc/jobs/)
