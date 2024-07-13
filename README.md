@@ -1225,6 +1225,7 @@ uk
 
 Canada
 - [University of Toronto](https://www.linkedin.com/school/university-of-toronto/jobs/)
+- [University of Waterloo](https://www.linkedin.com/school/uwaterloo/jobs/)
 - [University of British Columbia (UBC)](https://www.linkedin.com/school/universityofbc/jobs/)
 - [McGill University](https://www.linkedin.com/school/mcgill-university/jobs/)
 - [University of Alberta](https://www.linkedin.com/school/university-of-alberta/jobs/)
