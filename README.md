@@ -66,6 +66,7 @@
 
 <h4># companies</h4>
 
+* [2K](https://www.linkedin.com/company/2k-games/jobs/)
 * [3M](https://www.linkedin.com/company/3m/jobs/)
 * [6sense](https://www.linkedin.com/company/6sense/jobs/)
 * [10x Genomics](https://www.linkedin.com/company/10xgenomics/jobs/)
@@ -573,6 +574,7 @@
 * [LTIMindtree](https://www.linkedin.com/company/ltimindtree/jobs/)
 * [Lucid Motors](https://www.linkedin.com/company/lucidmotors/jobs/)
 * [Lululemon](https://www.linkedin.com/company/lululemon-athletica/jobs/)
+* [Lumen Technologies](https://www.linkedin.com/company/lumentechnologies/jobs/)
 * [Luxoft](https://www.linkedin.com/company/luxoft/jobs/)
 * [Lyft](https://www.linkedin.com/company/lyft/jobs/)
 * [Lyra Health](https://www.linkedin.com/company/lyra-health/jobs/)
