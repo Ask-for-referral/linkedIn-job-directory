@@ -486,6 +486,7 @@
 
 * [IBM](https://www.linkedin.com/company/ibm/jobs)
 * [Icertis](https://www.linkedin.com/company/icertis/jobs/)
+* [IDEXX](https://www.linkedin.com/company/idexx-laboratories/jobs/)
 * [IDFC FIRST Bank](https://www.linkedin.com/company/idfcfirstbank/jobs/)
 * [IKEA](https://www.linkedin.com/company/ikea/jobs/)
 * [Illumina](https://www.linkedin.com/company/illumina/jobs/)
@@ -992,6 +993,7 @@
 * [Wells Fargo](https://www.linkedin.com/company/wellsfargo/jobs/)
 * [Western Digital](https://www.linkedin.com/company/western-digital/jobs/)
 * [WeWork](https://www.linkedin.com/company/wework/jobs/)
+* [WEX](https://www.linkedin.com/company/wexinc/jobs/)
 * [Whatfix](https://www.linkedin.com/company/whatfix/jobs/)
 * [Whatnot](https://www.linkedin.com/company/whatnot-inc/jobs/)
 * [WhatsApp](https://www.linkedin.com/company/whatsapp/jobs/)
@@ -1043,6 +1045,7 @@
 * [Zeta](https://www.linkedin.com/company/zetasuite/jobs/)
 * [Zillow](https://www.linkedin.com/company/zillow/jobs/)
 * [Zipline](https://www.linkedin.com/company/zipline/jobs/)
+* [Zoetis](https://www.linkedin.com/company/zoetis/jobs/)
 * [Zoho](https://www.linkedin.com/company/zoho/jobs/)
 * [Zoom](https://www.linkedin.com/company/zoom-video-communications/jobs/)
 * [ZoomInfo](https://www.linkedin.com/company/zoominfo/jobs/)
