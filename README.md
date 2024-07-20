@@ -346,6 +346,7 @@
 * [Elastic](https://www.linkedin.com/company/elastic-co/jobs/)
 * [Electronic Arts (EA)](https://www.linkedin.com/company/electronic-arts/jobs/)
 * [Elevance Health](https://www.linkedin.com/company/elevance-health/jobs/)
+* [Eli Lilly and Company](https://www.linkedin.com/company/eli-lilly-and-company/jobs/)
 * [Endress+Hauser Group](https://www.linkedin.com/company/endress-hauser-group/jobs/)
 * [EPAM Anywhere](https://www.linkedin.com/company/epam-anywhere/jobs/)
 * [EPAM Systems](https://www.linkedin.com/company/epam-systems/jobs/)
