@@ -590,6 +590,7 @@
 * [Macquarie Group](https://www.linkedin.com/company/macquariegroup/jobs/)
 * [MakeMyTrip](https://www.linkedin.com/company/makemytrip.com/jobs/)
 * [Marvell Technology](https://www.linkedin.com/company/marvell/jobs/)
+* [Marqeta](https://www.linkedin.com/company/marqeta/jobs/)
 * [Mastercard](https://www.linkedin.com/company/mastercard/jobs/)
 * [MasterClass](https://www.linkedin.com/company/masterclass/jobs/)
 * [Match Group](https://www.linkedin.com/company/match-group/jobs/)
