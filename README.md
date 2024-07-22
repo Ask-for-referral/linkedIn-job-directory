@@ -569,6 +569,7 @@
 * [LiveRamp](https://www.linkedin.com/company/liveramp/jobs/)
 * [Lockheed Martin](https://www.linkedin.com/company/lockheed-martin/jobs/)
 * [Logitech](https://www.linkedin.com/company/logitech/jobs/)
+* [L'Oréal](https://www.linkedin.com/company/lor%C3%A9al/jobs/)
 * [Los Alamos National Laboratory](https://www.linkedin.com/company/los-alamos-national-laboratory/jobs/)
 * [Lowe's Companies, Inc.](https://www.linkedin.com/company/lowe's-home-improvement/jobs/)
 * [Loom](https://www.linkedin.com/company/loomhq/jobs/)
@@ -943,6 +944,7 @@
 
 * [Uber](https://www.linkedin.com/company/uber-com/jobs/)
 * [Ubisoft](https://www.linkedin.com/company/ubisoft/jobs/)
+* [Ulta Beauty](https://www.linkedin.com/company/ulta/jobs/)
 * [Ultimate Software](https://www.linkedin.com/company/ultimate-software/jobs/)
 * [UiPath](https://www.linkedin.com/company/uipath/jobs/)
 * [United Airlines](https://www.linkedin.com/company/united-airlines/jobs/)
@@ -982,6 +984,7 @@
 
 <h4>W companies</h4>
 
+* [Walgreens](https://www.linkedin.com/company/walgreens/jobs/)
 * [Walt Disney Company](https://www.linkedin.com/company/the-walt-disney-company/jobs/)
 * [Walmart](https://www.linkedin.com/company/walmart/jobs/)
 * [Walmart Global Tech India](https://www.linkedin.com/company/walmartglobaltechindia/jobs/)
