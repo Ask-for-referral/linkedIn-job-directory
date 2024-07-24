@@ -110,6 +110,7 @@
 * [AND Digital](https://www.linkedin.com/company/and_digital/jobs/)
 * [Anduril Industries](https://www.linkedin.com/company/andurilindustries/jobs/)
 * [Anomaly](https://www.linkedin.com/company/anomaly/jobs/)
+* [Ansys](https://www.linkedin.com/company/ansys-inc/jobs/)
 * [Anthem](https://www.linkedin.com/company/anthem-inc/jobs/)
 * [Aon](https://www.linkedin.com/company/aon/jobs/)
 * [AppDynamics](https://www.linkedin.com/company/appdynamics/)
