@@ -376,6 +376,7 @@
 * [FedEx](https://www.linkedin.com/company/fedex/jobs/)
 * [FanDuel](https://www.linkedin.com/company/fanduel/jobs/)
 * [Fanatics](https://www.linkedin.com/company/fanatics-inc-/jobs/)
+* [Federal Express Corporation (FedEx)](https://www.linkedin.com/company/federal-express-corporation/jobs/)
 * [Feedzai](https://www.linkedin.com/company/feedzai/jobs/)
 * [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/jobs/)
 * [Fifth Third Bank](https://www.linkedin.com/company/fifth-third-bank/jobs/)
