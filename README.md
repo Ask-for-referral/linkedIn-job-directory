@@ -7,7 +7,7 @@
 [![Share on Hacker News](https://img.shields.io/badge/Share-Hacker%20News-orange)](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&t=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)
 [![Share on Discord](https://img.shields.io/badge/Share-Discord-blueviolet)](https://discord.com/)
 
-<h1></a> LinkedIn Job Directory</ tabindex="-1" class="heading-element" dir="auto" align="center" style="display: flex; align-items: center; justify-content: center;"> <a href="https://github.com/sindresorhus/awesome"><img src="[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)" alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"  h1>
+<h1></a> LinkedIn Job Directory </h1> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 <h2 tabindex="-1" class="heading-element" dir="auto"><a href="#Company-wise">Company-wise</a></h2>
