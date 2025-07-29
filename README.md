@@ -1,3 +1,8 @@
+📌 This is a fork of [pushpakumar02/linkedIn-job-directory](https://github.com/pushpakumar02/linkedIn-job-directory)  
+✨ Main development and contributions happen there. Please ⭐ star the original repo to support it.
+
+
+
 [![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
 [![Share on WhatsApp](https://img.shields.io/badge/Share-WhatsApp-brightgreen)](https://api.whatsapp.com/send?text=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!%20https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory)
 [![Share on Telegram](https://img.shields.io/badge/Share-Telegram-blue)](https://t.me/share/url?url=https%3A%2F%2Fgithub.com%2FAsk-for-referral%2FLinkedIn-Job-Directory&text=Check%20out%20this%20awesome%20LinkedIn%20Job%20Directory%20repository!)
